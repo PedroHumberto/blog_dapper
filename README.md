@@ -4,13 +4,14 @@ Blog simples criado a partir de Console APP para estudar Dapper.
 
 ---
 
-## Funcionalidades
+## Funcionalidades:
 
 * Menu Tag Completo
 * Menu Post Iniciado
 * DEMAIS AINDA PRECISA SER CRIADO
 
-Examples os Screens:
+---
+## Exemplos de tela:
 
 O que deseja fazer?
 
